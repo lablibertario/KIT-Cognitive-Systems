@@ -1,4 +1,4 @@
-Kognitive Systeme am KIT
+KIT lecture: Cognitive systems
 =====================
 
 Learning materials for the KIT lecture "Cognitive Systems and Artificial Intelligence".
